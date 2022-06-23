@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adnanshafiwork
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel 8
-- 💞️ I’m looking to collaborate on web projects in laravel and codeigniter
+- 👀 I’m interested in web development and blockchain development
+- 🌱 I’m currently learning Solidity Smart Contracts
+- 💞️ I’m looking to collaborate on web projects in laravel and codeigniter and Blockchain projects in Solidity with Python
 - 📫 How to reach me just mail on adnanshafiwork@gmail.com
 
 <!---
